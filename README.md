@@ -1,1 +1,3 @@
-This is test project with hero admin panel!# react-hero_admin_panel
+### My first small project written in React - Redux. The usual administrative control panel and character filtering
+
+### Made on React / Redux
